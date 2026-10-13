@@ -1,0 +1,1 @@
+vless://b654a87f-3bdc-4482-ac21-4ca97c3348db@parsa-production-c68f.up.railway.app:443?encryption=none&security=tls&type=ws&sni=parsa-production-c68f.up.railway.app&host=parsa-production-c68f.up.railway.app&path=/ws#client
